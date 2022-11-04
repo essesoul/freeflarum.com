@@ -549,9 +549,9 @@
 <ol>
 <li>登录 FreeFlarum 并下载您的数据库和头像。</li>
 <li>在别处安装 Flarum的相同版本，然后按照 常规文档 执行操作。 测试您安装的论坛是否正常工作。</li>
-<li>导入你的数据库：zcat my_freeflarum_database_export.sql.gz | mysql -u USER -h HOST -p 其中 USER 和 HOST 来自您的新数据库帐户。</li>
+<li>导入你的数据库：<code>zcat my_freeflarum_database_export.sql.gz | mysql -u USER -h HOST -p</code> 其中 USER 和 HOST 来自您的新数据库帐户。</li>
 <li>恢复您的资产：上传并解压您的public assets文件</li>
-<li>可以肯定的是，清除缓存：php flarum cache:clear并迁移Flarum的数据库：php flarum migrate</li>
+<li>可以肯定的是，清除缓存：<code>php flarum cache:clear</code>并迁移Flarum的数据库：<code>php flarum migrate</code></li>
 <li>完成</li>
 </ol>
 <p>FreeFlarum 很遗憾看到你离开，但祝你的论坛好运！</p>
