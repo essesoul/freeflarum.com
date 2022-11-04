@@ -16,37 +16,37 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://docs.freeflarum.com/API/</loc>
+         <loc>https://docs.freeflarum.com/api/</loc>
          <lastmod>2022-11-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://docs.freeflarum.com/API/authentication/</loc>
+         <loc>https://docs.freeflarum.com/api/authentication/</loc>
          <lastmod>2022-11-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://docs.freeflarum.com/%E6%95%99%E7%A8%8B/custom-domain/</loc>
+         <loc>https://docs.freeflarum.com/legal/</loc>
          <lastmod>2022-11-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://docs.freeflarum.com/%E6%95%99%E7%A8%8B/exporting-forum/</loc>
+         <loc>https://docs.freeflarum.com/legal/privacy-policy/</loc>
          <lastmod>2022-11-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://docs.freeflarum.com/%E6%B3%95%E5%BE%8B%E4%BF%A1%E6%81%AF/</loc>
+         <loc>https://docs.freeflarum.com/legal/terms/</loc>
          <lastmod>2022-11-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://docs.freeflarum.com/%E6%B3%95%E5%BE%8B%E4%BF%A1%E6%81%AF/privacy-policy/</loc>
+         <loc>https://docs.freeflarum.com/tutorials/custom-domain/</loc>
          <lastmod>2022-11-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://docs.freeflarum.com/%E6%B3%95%E5%BE%8B%E4%BF%A1%E6%81%AF/terms/</loc>
+         <loc>https://docs.freeflarum.com/tutorials/exporting-forum/</loc>
          <lastmod>2022-11-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
